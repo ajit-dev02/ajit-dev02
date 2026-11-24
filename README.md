@@ -4,7 +4,7 @@
 
 - B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2026–30)
 
-- **Currently learning**: Linux shell scripting, Git/GitHub workflows, and Python
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
 
 - Interested in:  AI-ML 
 
@@ -32,6 +32,6 @@ Git workflows, API interaction, and Markdown documentation
 
 ## Connect With Me
 
-- LinkedIn : [Your LinkedIn Profile URL]
+- LinkedIn : https://www.linkedin.com/in/ajit-kumar-977384444?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-- Email : [Your college email address]
+- Email : 2601730350@krmu.edu.in
